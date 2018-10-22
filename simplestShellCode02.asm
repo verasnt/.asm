@@ -1,6 +1,3 @@
-; Copyright Ty Miller 2011-2018 - The Shellcode Lab
-; Semi-colons start comments in ASM - comment everything you can because you will forget what the ASM code doe
-s
 ; Simplest Linux shellcode ever - execute the "exit" syscall to terminate the program
 
 [SECTION .text]                 ; The text segment is also known as the code segment
