@@ -1,5 +1,4 @@
-; Copyright Ty Miller 2011-2018 - The Shellcode Lab
-; Develop shellcode to write to stdout and then exit using the "write" syscall
+;shellcode to write to stdout and then exit using the "write" syscall
 
 [SECTION .text]
 BITS 32
