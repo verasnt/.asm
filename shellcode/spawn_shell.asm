@@ -1,4 +1,5 @@
-;shellcode to execute a hardcoded command to spawn a shell
+;Develop shellcode to execute a hardcoded command to spawn a shell
+
 [SECTION .text]
 BITS 32
 
